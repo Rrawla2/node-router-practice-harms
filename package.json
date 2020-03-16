@@ -24,7 +24,9 @@
   "homepage": "https://github.com/LambdaSchool/node-server-testing#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "express": "^4.17.1",
     "knex": "^0.20.11",
+    "nodemon": "^2.0.2",
     "pg": "^7.18.2",
     "sqlite3": "^4.1.0"
   }
